@@ -1,4 +1,0 @@
-Merged wordlsit from: 
-https://raw.githubusercontent.com/assetnote/commonspeak2-wordlists/refs/heads/master/subdomains/subdomains.txt
-https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/*
-https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056
